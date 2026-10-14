@@ -28,7 +28,7 @@ See the [User's Guide](UsersGuide.md) for downloads, installation and usage.
 ## Statistics
 
 ![Pascal](https://img.shields.io/badge/Language-Pascal-blue)
-![IDE](https://img.shields.io/badge/IDE-RAD%20Studio-purple)
+![IDE](https://img.shields.io/badge/IDE-Delphi%20RAD%20Studio-purple)
 ![INI](https://img.shields.io/badge/File-INI-yellow)
 <br>
 ![status](https://img.shields.io/badge/status-on%20hold-yellow) 
